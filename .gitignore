@@ -1,6 +1,6 @@
 # Python virtual environment
 venv/
-
+/emotion_model.onnx
 
 # Bytecode and cache
 __pycache__/

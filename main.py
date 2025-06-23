@@ -5,7 +5,7 @@ from onnx_inference import EmotionClassifierONNX
 
 # Load the classifier on startup
 classifier = EmotionClassifierONNX(
-    model_path="emotion_model.onnx",
+    model_path="https://huggingface.co/nishil00/model_emotion/blob/main/emotion_model.onnx",
     label_encoder_path="label_encoder.pkl"
 )
 

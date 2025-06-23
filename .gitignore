@@ -1,14 +1,8 @@
 # Python virtual environment
 venv/
-.env
-chatapp_env
+
 
 # Bytecode and cache
 __pycache__/
 *.py[cod]
 
-# SQLite database
-# *.sqlite3
-/staticfiles/
-/media/
-/templates/
